@@ -2,7 +2,7 @@
 <?xml-model href="knihy.xsd"?>
 <knihy>
     <kniha>
-        <ISBN>KOKOT</ISBN>
+        <ISBN>KOKOT2</ISBN>
         <nazev>Stopařův průvodce po galaxii</nazev>
         <vydavatel>MF</vydavatel>
         <rok_vydani>1985</rok_vydani>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="knihy.xsd"?>
+<knihy>
+    <kniha>
+        <ISBN>K003</ISBN>
+        <nazev>Stopařův průvodce po galaxii</nazev>
+        <vydavatel>MF</vydavatel>
+        <rok_vydani>1985</rok_vydani>
+        <pocet_stran>214</pocet_stran>
+        <cena>120</cena>
+        <zanr>scifi</zanr>
+        <typ>kniha</typ>
+        <vypujcka>
+            <jmeno>Jan Novák</jmeno>
+            <datum_vypujceni>2024-04-10</datum_vypujceni>
+            <vraceno>true</vraceno>
+        </vypujcka>
+    </kniha>
+    <kniha>
+        <ISBN>K045</ISBN>
+        <nazev>Pán prstenů - Dvě věže</nazev>
+        <vydavatel>MF</vydavatel>
+        <rok_vydani>1948</rok_vydani>
+        <pocet_stran>251</pocet_stran>
+        <cena>240</cena>
+        <zanr>fantasy</zanr>
+        <typ>kniha</typ>
+        <vypujcka>
+            <jmeno>Jana Nováková</jmeno>
+            <datum_vypujceni>2024-04-09</datum_vypujceni>
+            <vraceno>false</vraceno>
+        </vypujcka>
+    </kniha>
+    <kniha>
+        <ISBN>K051</ISBN>
+        <nazev>Kedrigern a hlas pro princeznu</nazev>
+        <vydavatel>MF</vydavatel>
+        <rok_vydani>1996</rok_vydani>
+        <cena>178</cena>
+        <zanr>fantasy</zanr>
+        <typ>kniha</typ>
+        <vypujcka>
+            <jmeno>Tomáš Novotný</jmeno>
+            <datum_vypujceni>2024-04-08</datum_vypujceni>
+            <vraceno>true</vraceno>
+        </vypujcka>
+    </kniha>
+    <kniha>
+        <ISBN>K043</ISBN>
+        <nazev>Hobit</nazev>
+        <vydavatel>MF</vydavatel>
+        <rok_vydani>1950</rok_vydani>
+        <pocet_stran>410</pocet_stran>
+        <cena>178</cena>
+        <zanr>fantasy</zanr>
+        <typ>kniha</typ>
+        <vypujcka>
+            <jmeno>Anna Nováková</jmeno>
+            <datum_vypujceni>2024-04-07</datum_vypujceni>
+            <vraceno>false</vraceno>
+        </vypujcka>
+    </kniha>
+    <kniha>
+        <ISBN>K025</ISBN>
+        <nazev>Barva kouzel</nazev>
+        <vydavatel>Talpress</vydavatel>
+        <rok_vydani>1989</rok_vydani>
+        <pocet_stran>221</pocet_stran>
+        <cena>358</cena>
+        <zanr>fantasy</zanr>
+        <typ>ebook</typ>
+        <vypujcka>
+            <jmeno>Jan Novák</jmeno>
+            <datum_vypujceni>2024-04-06</datum_vypujceni>
+            <vraceno>true</vraceno>
+        </vypujcka>
+    </kniha>
+    <kniha>
+        <ISBN>K026</ISBN>
+        <nazev>Stráže! Stráže!</nazev>
+        <vydavatel>Talpress</vydavatel>
+        <rok_vydani>2000</rok_vydani>
+        <cena>415</cena>
+        <zanr>fantasy</zanr>
+        <typ>ebook</typ>
+        <vypujcka>
+            <jmeno>Jana Nováková</jmeno>
+            <datum_vypujceni>2024-04-05</datum_vypujceni>
+            <vraceno>false</vraceno>
+        </vypujcka>
+    </kniha>
+    <kniha>
+        <ISBN>K027</ISBN>
+        <nazev>Lehké fantastično</nazev>
+        <vydavatel>Talpress</vydavatel>
+        <rok_vydani>1999</rok_vydani>
+        <pocet_stran>145</pocet_stran>
+        <cena>415</cena>
+        <zanr>fantasy</zanr>
+        <typ>ebook</typ>
+        <vypujcka>
+            <jmeno>Petr Nový</jmeno>
+            <datum_vypujceni>2024-04-04</datum_vypujceni>
+            <vraceno>true</vraceno>
+        </vypujcka>
+    </kniha>
+</knihy>

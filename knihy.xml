@@ -2,7 +2,7 @@
 <?xml-model href="knihy.xsd"?>
 <knihy>
     <kniha>
-        <ISBN>K003</ISBN>
+        <ISBN>KOKOT</ISBN>
         <nazev>Stopařův průvodce po galaxii</nazev>
         <vydavatel>MF</vydavatel>
         <rok_vydani>1985</rok_vydani>
@@ -62,7 +62,7 @@
     </kniha>
     <kniha>
         <ISBN>K025</ISBN>
-        <nazev>Barva kouzel</nazev>
+        <nazev>Barva kouz</nazev>
         <vydavatel>Talpress</vydavatel>
         <rok_vydani>1989</rok_vydani>
         <pocet_stran>221</pocet_stran>
